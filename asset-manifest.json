@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.f88903f2.css",
-    "main.js": "/portfolio/static/js/main.d86251fd.js",
-    "static/js/453.a0ff4794.chunk.js": "/portfolio/static/js/453.a0ff4794.chunk.js",
-    "static/media/photo.jpg": "/portfolio/static/media/photo.aed7434ff3655bee63bc.jpg",
-    "index.html": "/portfolio/index.html",
-    "main.f88903f2.css.map": "/portfolio/static/css/main.f88903f2.css.map",
-    "main.d86251fd.js.map": "/portfolio/static/js/main.d86251fd.js.map",
-    "453.a0ff4794.chunk.js.map": "/portfolio/static/js/453.a0ff4794.chunk.js.map"
+    "main.css": "/saeed-moradi-98/static/css/main.f88903f2.css",
+    "main.js": "/saeed-moradi-98/static/js/main.ce165e97.js",
+    "static/js/453.a0ff4794.chunk.js": "/saeed-moradi-98/static/js/453.a0ff4794.chunk.js",
+    "static/media/photo.jpg": "/saeed-moradi-98/static/media/photo.aed7434ff3655bee63bc.jpg",
+    "index.html": "/saeed-moradi-98/index.html",
+    "main.f88903f2.css.map": "/saeed-moradi-98/static/css/main.f88903f2.css.map",
+    "main.ce165e97.js.map": "/saeed-moradi-98/static/js/main.ce165e97.js.map",
+    "453.a0ff4794.chunk.js.map": "/saeed-moradi-98/static/js/453.a0ff4794.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f88903f2.css",
-    "static/js/main.d86251fd.js"
+    "static/js/main.ce165e97.js"
   ]
 }
